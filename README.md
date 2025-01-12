@@ -18,3 +18,11 @@ Ce projet analyse les données de ventes de smartphones et prédit les revenus f
 │   └── model.py   # Entraînement et évaluation du modèle (inclut tous le code)
 ├── README.md               # 📝 Présentation du projet
   
+## ⚙️ Installation
+
+1. **Cloner le dépôt GitHub :**
+
+```bash
+git clone https://github.com/ton-utilisateur/telecom-sales-analysis.git
+cd telecom-sales-analysis
+pip install pandas matplotlib seaborn scikit-learn
