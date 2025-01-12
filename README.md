@@ -2,10 +2,17 @@
 Ce projet analyse les données de ventes de smartphones et prédit les revenus futurs à l'aide de modèles de Machine Learning.
 ## 🚀 Fonctionnalités
 
-- 🔍 Nettoyage et prétraitement des données
-- 📈 Analyses statistiques et visualisations
-- 🤖 Modélisation prédictive avec Random Forest
-- 📊 Prédictions des revenus pour l'année 2025
+-🔍Nettoyage et prétraitement des données
+-🔍Analyse Exploratoire
+Statistiques descriptives
+Visualisation des données (histogrammes, boxplots, heatmap)
+- 🤖 Modélisation
+Régression via Random Forest
+Évaluation du modèle (MSE, RMSE, R²)
+-📊 Prédictions
+Prédictions des revenus des smartphones pour les 3 premiers mois de 2025
+Graphiques de comparaison des valeurs réelles et prédites
+
 
 - telecom-sales-analysis/
 ├── data/                   #  Données
