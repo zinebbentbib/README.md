@@ -23,6 +23,6 @@ Ce projet analyse les données de ventes de smartphones et prédit les revenus f
 1. **Cloner le dépôt GitHub :**
 
 ```bash
-git clone https://github.com/ton-utilisateur/telecom-sales-analysis.git
+git clone https://github.com/zinebbentbib/telecom-sales-analysis.git
 cd telecom-sales-analysis
 pip install pandas matplotlib seaborn scikit-learn
